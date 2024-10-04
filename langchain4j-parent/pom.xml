@@ -46,7 +46,7 @@
         <jackson.version>2.16.1</jackson.version>
         <jedis.version>5.0.0</jedis.version>
         <aws.java.sdk.version>2.21.44</aws.java.sdk.version>
-        <github-api.version>1.318</github-api.version>
+        <github-api.version>1.325</github-api.version>
         <netty.version>4.1.109.Final</netty.version>
         <awaitility.version>4.2.0</awaitility.version>
         <jsonpath.version>2.9.0</jsonpath.version>
