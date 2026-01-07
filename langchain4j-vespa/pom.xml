@@ -23,7 +23,7 @@
     </description>
 
     <properties>
-        <vespa.version>8.190.2</vespa.version> <!-- the latest Java 8 version -->
+        <vespa.version>8.624.72</vespa.version> <!-- the latest Java 8 version -->
     </properties>
 
     <dependencies>
